@@ -1,3 +1,5 @@
-# Dan prvi (first day, not day one)
+# Dan prvi - day one
+Note *prvi* means *first* not *one*.
+
 * Ponedjeljak - Monday
-* 25 dvadeset pet
+* Dvadeset pet - 25
