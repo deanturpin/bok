@@ -11,8 +11,8 @@ See [days of the week](https://www.learncroatian.eu/blog/days-of-week-croatian).
 * Utorok - Tuesday
 
 ## Numbers
-1.
-2.
+1. jedan
+2. dva
 3.
 4.
 5. pet
