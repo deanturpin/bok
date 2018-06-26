@@ -6,3 +6,6 @@ Note *prvi* means *first* not *one*.
 * Dvadeset pet - 25
 
 See [days of the week](https://www.learncroatian.eu/blog/days-of-week-croatian).
+
+# Day two
+* Utorok - Tuesday
