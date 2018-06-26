@@ -22,3 +22,6 @@ See [days of the week](https://www.learncroatian.eu/blog/days-of-week-croatian).
 9.
 10. 
 
+## Ordinals
+1. prvi
+2. drugi
