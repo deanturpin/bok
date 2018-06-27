@@ -17,7 +17,7 @@ See [days of the week](https://www.learncroatian.eu/blog/days-of-week-croatian).
 4.
 5. pet
 6.
-7.
+7. sedam
 8.
 9.
 10. 
@@ -25,3 +25,12 @@ See [days of the week](https://www.learncroatian.eu/blog/days-of-week-croatian).
 ## Ordinals
 1. prvi
 2. drugi
+
+# Treći dan
+
+* Srijeda – Wednesday
+* 27 – Dvadaset sedam
+* Cancel - Odustani 
+* OK - Otključaj
+
+https://en.wikipedia.org/wiki/Croatian_language
