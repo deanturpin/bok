@@ -31,5 +31,7 @@ See [days of the week](https://www.learncroatian.eu/blog/days-of-week-croatian).
 # Misc
 * Cancel - Odustani 
 * OK - Otključaj
+* Da - yes
+* Ne - no
 
 https://en.wikipedia.org/wiki/Croatian_language
