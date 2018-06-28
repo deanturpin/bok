@@ -1,16 +1,5 @@
-# Dan prvi - day one
-Note *prvi* means *first* not *one*.
 
-* Nedjelja – Sunday: “day with no work”
-* Ponedjeljak – Monday: “the day which follows nedjelja“
-* Dvadeset pet - 25
-
-See [days of the week](https://www.learncroatian.eu/blog/days-of-week-croatian).
-
-# Day two
-* Utorok - Tuesday
-
-## Numbers
+# Numbers
 1. jedan
 2. dva
 3.
@@ -18,18 +7,28 @@ See [days of the week](https://www.learncroatian.eu/blog/days-of-week-croatian).
 5. pet
 6.
 7. sedam
-8.
+8. osam
 9.
 10. 
+20. dvadeset
 
-## Ordinals
+# Days of the week
+* M - ponedjeljak “the day which follows nedjelja“
+* T - utorok
+* W - srijeda
+* T - četvrtak
+* F -
+* S -
+* S - nedjelja “day with no work”
+
+See [days of the week](https://www.learncroatian.eu/blog/days-of-week-croatian).
+
+# Ordinals
 1. prvi
 2. drugi
+3. treći
 
-# Treći dan
-
-* Srijeda – Wednesday
-* 27 – Dvadaset sedam
+# Misc
 * Cancel - Odustani 
 * OK - Otključaj
 
