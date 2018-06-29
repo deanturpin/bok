@@ -8,8 +8,8 @@
 6.
 7. sedam
 8. osam
-9.
-10. 
+9. devet
+10. deset
 20. dvadeset
 
 # Days of the week
