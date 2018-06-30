@@ -18,7 +18,7 @@
 * W - srijeda
 * T - četvrtak
 * F - petak
-* S -
+* S - subota
 * S - nedjelja “day with no work”
 
 See [days of the week](https://www.learncroatian.eu/blog/days-of-week-croatian).
@@ -36,5 +36,6 @@ See [days of the week](https://www.learncroatian.eu/blog/days-of-week-croatian).
 * navečer - night
 * dan - day
 * dobar dan - good day!
+* montirano - mounted
 
 https://en.wikipedia.org/wiki/Croatian_language
