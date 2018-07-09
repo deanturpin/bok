@@ -43,6 +43,7 @@ Sunka, pivo, palacinke,
 Krastavac i malo vino,
 Debili! Ti si mali slon!
 
+moja kuća je tvoja kuća
 </pre>
 
 https://en.wikipedia.org/wiki/Croatian_language
