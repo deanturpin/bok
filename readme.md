@@ -38,4 +38,11 @@ See [days of the week](https://www.learncroatian.eu/blog/days-of-week-croatian).
 * dobar dan - good day!
 * montirano - mounted
 
+<pre>
+Sunka, pivo, palacinke,
+Krastavac i malo vino,
+Debili! Ti si mali slon!
+
+</pre>
+
 https://en.wikipedia.org/wiki/Croatian_language
