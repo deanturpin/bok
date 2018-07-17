@@ -47,3 +47,9 @@ moja kuća je tvoja kuća
 </pre>
 
 https://en.wikipedia.org/wiki/Croatian_language
+
+
+# Phrases
+- Would you like a drink? / Želite li piće?
+- what time is it? / koliko je sati?
+- What time do you open/close? / Koliko vremena otvorite / zatvorite?
