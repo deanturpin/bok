@@ -50,16 +50,31 @@ https://en.wikipedia.org/wiki/Croatian_language
 
 
 # Phrases
-- Would you like a drink? / Želite li piće?
-- what time is it? / koliko je sati?
-- What time do you open/close? / Koliko vremena otvorite / zatvorite?
-- Two beers please / Dva piva molim
-- white wine / bijelo vino
-- red wine / crno vino
-- Hello / zdravo, bok
-- goodbye / Doviđenja
-- Cold / hladno
-- hot / vruće
-- wet / mokar
-- dry / suho
-- sour / kiseo
+* Would you like a drink? / Želite li piće?
+* what time is it? / koliko je sati?
+* What time do you open/close? / Koliko vremena otvorite / zatvorite?
+* Two beers please / Dva piva molim
+* white wine / bijelo vino
+* red wine / crno vino
+* Hello / zdravo, bok
+* goodbye / Doviđenja
+* Cold / hladno
+* hot / vruće
+* wet / mokar
+* dry / suho
+* sour / kiseo
+
+# Misc
+* Ja sam hrvat
+* Jeste li vi hrvat
+* Hvala
+* A vi
+* Jeste li vi
+* Ja ni Sam
+* Vrlo dobro
+* Dovijenja
+* Znam
+* Znate
+* Htio bih nešto pojesti
+* želiš li nešto pojesti
+* biste li htjeli nešto pojesti
